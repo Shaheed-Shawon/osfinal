@@ -1,4 +1,4 @@
-# Round Robin CPU Scheduling
+
 n = int(input("Enter number of processes :"))
 p = []
 for i in range(n):
