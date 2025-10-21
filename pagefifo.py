@@ -1,7 +1,5 @@
 def fifo_page_replacement():
-    print("=" * 50)
-    print("FIFO Page Replacement Algorithm")
-    print("=" * 50)
+    
     
     
     page_string = input("Enter page reference string (space-separated): ")
